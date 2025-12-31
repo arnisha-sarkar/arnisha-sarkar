@@ -2,7 +2,7 @@
 
 <!--
 **arnisha-sarkar/arnisha-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Frontend Developer focused on creating clean, responsive, and engaging user experiences with React, Tailwind CSS, and modern web technologies.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
