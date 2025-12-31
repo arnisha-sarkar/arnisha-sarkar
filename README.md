@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hey there, I'm Arnisha
 
 <!--
 **arnisha-sarkar/arnisha-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
