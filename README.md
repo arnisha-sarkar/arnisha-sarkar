@@ -2,6 +2,15 @@
 
 A passionate Frontend Developer dedicated to crafting beautiful, responsive, and user-centric web applications. I specialize in React and Tailwind CSS, bringing designs to life with clean code and modern JavaScript. I enjoy building real-world products that solve problems, deliver smooth user experiences, and scale effectively.
 
+```javascript
+const dimi = {
+  languages: [JavaScript, Kotlin, Java, HTML5, CSS3],
+  databases: [MongoDB +Mongoose, MySQL, SQL Server Management Studio],
+  frameworks: [MERN, React, Node.js, Express.js, Jetpack Compose],
+  tools: [Android Studio, Formik, Yup, EJS, Bootstrap, Dotenv, Nodemon, CORS, Bcrypt, Git, GitHub, Passport.js, JSON Web Tokens, Material UI],
+}
+```
+
  languages: [JavaScript, HTML5, CSS3],
   databases: [MongoDB +Mongoose],
   frameworks: [MERN, React, Node.js, Express.js],
