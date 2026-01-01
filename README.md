@@ -1,6 +1,11 @@
 ## 👋 Hey there, I'm Arnisha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 A passionate Frontend Developer dedicated to crafting beautiful, responsive, and user-centric web applications. I specialize in React and Tailwind CSS, bringing designs to life with clean code and modern JavaScript. I enjoy building real-world products that solve problems, deliver smooth user experiences, and scale effectively.
+
+ languages: [JavaScript, HTML5, CSS3],
+  databases: [MongoDB +Mongoose],
+  frameworks: [MERN, React, Node.js, Express.js],
+  tools: [Android Studio, Formik, Yup, EJS, Tailwind, daisyui, Dotenv, Nodemon, CORS, Bcrypt, Git, GitHub, Passport.js, JSON Web Tokens, Material UI],
 <!--
 **arnisha-sarkar/arnisha-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
