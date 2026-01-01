@@ -1,4 +1,7 @@
-<img src="https://me![images](https://github.com/user-attachments/assets/c351b4fd-545a-4da2-9914-8aec408d946d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c351b4fd-545a-4da2-9914-8aec408d946d" />
+</p>
+
 ## 👋 Hey there, I'm Arnisha 
 dia.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
