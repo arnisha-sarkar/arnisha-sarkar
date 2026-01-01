@@ -6,7 +6,7 @@ A passionate Frontend Developer dedicated to crafting beautiful, responsive, and
  languages: [JavaScript, HTML5, CSS3],
   databases: [MongoDB +Mongoose],
   frameworks: [MERN, React, Node.js, Express.js],
-  tools: [Android Studio, Formik, Yup, EJS, Tailwind, daisyui, Dotenv, Nodemon, CORS, Bcrypt, Git, GitHub, Passport.js, JSON Web Tokens, Material UI],
+  tools: [Tailwind, daisyui, Dotenv, Nodemon, CORS, Bcrypt, Git, GitHub, Passport.js, JSON Web Tokens, Material UI],
 ```
 <!--
 **arnisha-sarkar/arnisha-sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
