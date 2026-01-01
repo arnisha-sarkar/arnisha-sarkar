@@ -5,7 +5,7 @@ A passionate Frontend Developer dedicated to crafting beautiful, responsive, and
 ```JavaScript
  languages: [JavaScript, HTML5, CSS3],
   databases: [MongoDB +Mongoose],
-  frameworks: [MERN, React, Node.js, Express.js],
+  frameworks: [MERN, React, Node.js, Express.js, Next.js],
   tools: [Tailwind, daisyui, Dotenv, Nodemon, CORS, Bcrypt, Git, GitHub, Passport.js, JSON Web Tokens, Material UI],
 ```
 <!--
