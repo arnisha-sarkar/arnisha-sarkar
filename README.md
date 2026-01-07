@@ -2,8 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c351b4fd-545a-4da2-9914-8aec408d946d" />
 </p>
 
-## 👋 Hey there, I'm Arnisha 
-dia.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+## 👋 Hey there, I'm Arnisha <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 🌐 A passionate Frontend Developer dedicated to crafting beautiful, responsive, and user-centric web applications.
 
