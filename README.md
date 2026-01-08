@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/c351b4fd-545a-4da2-9914-8aec408d946d" />
 </p>
 
-![logo](https://github.com/mubeenwattoo/mubeenwattoo/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.gif)
+![logo]()
 <h1 align="center">Hi 👋, I'm Arnisha</h1>
 <h3 align="center">A passionate Front-End Developer</h3>
 <img align="right" alt="coding" width="400" src="">
