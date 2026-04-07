@@ -18,7 +18,7 @@
 ⚡ Hard worker.
 
 ```JavaScript
- languages: [JavaScript, HTML5, CSS3],
+ languages: [JavaScript, TypeScript, HTML5, CSS3],
   databases: [MongoDB +Mongoose],
   frameworks: [MERN, React, Node.js, Express.js, Next.js],
   tools: [Tailwind, daisyui, Dotenv, Nodemon, CORS, Bcrypt, Git, GitHub, Passport.js, JSON Web Tokens, Material UI],
